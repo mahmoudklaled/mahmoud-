@@ -39,5 +39,5 @@ I'm an experienced software engineer with a robust background in programming, pr
 - SCRUM (Agile)
 - Software Development
 
-## 📊 GitHub Profile Views
+## Views
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoudklaled&style=flat-square)
